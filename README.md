@@ -3,17 +3,14 @@
 A boilerplate for building React apps
 
 ### What you'll get
- - React 16.7
- - Parcel
- - Stylus
- - ES6, ES7 & JSX to ES5 via Babel
+    React + Parcel + Stylus + MobX
  
 ### Getting Started
 
 ##### Installing with git
 
 ```bash
-git clone depth=1 https://github.com/badsyntax/react-seed.git
+git clone depth=1 https://github.com/Veereshkumar4/V-React.git
 ```
 
 ##### npm scripts
